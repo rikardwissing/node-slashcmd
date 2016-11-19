@@ -19,7 +19,6 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "node-slashcmd-sonos": "git+https://github.com/rikardwissing/node-slashcmd-sonos.git",
     "slashcmd-sonos": "git+https://github.com/rikardwissing/node-slashcmd-sonos.git"
   }
 }
