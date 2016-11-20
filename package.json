@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/rikardwissing/node-slashcmd#readme",
   "dependencies": {
-
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "slashcmd-sonos": "git+https://github.com/rikardwissing/node-slashcmd-sonos.git"
   }
 }
